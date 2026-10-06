@@ -1,0 +1,11 @@
+apiVersion: v2
+
+name: image-versioning-argocd
+
+description: Helm chart for deploying a versioned application to Kubernetes with ArgoCD and GitOps.
+
+type: application
+
+version: 0.1.0
+
+appVersion: "v0.1.19"
